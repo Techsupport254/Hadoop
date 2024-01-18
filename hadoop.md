@@ -1,4 +1,4 @@
-![Alt text](image-5.png)
+![Alt text](image-9.png)
 ---
 
 ### Step 1: Ingest the Data into Hadoop DFS Data Lake
